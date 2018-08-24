@@ -11,4 +11,4 @@ He has completed Bachelor of Engineering in Computer Science & Engineering from 
 
 He travels occasionally to beautiful mountains and rivers. He loves to be in the wild. 
 
-He has great interest in technologies related to Web Development, Machine Learning & Deep Learning.
+He has great interest in technologies related to Artificial Intelligence.

@@ -1,0 +1,11 @@
+title: Swapnil Singh
+email: swappp7singh@gmail.com
+description: Hi. I'm Swapnil. I'm a Java & PL/SQL Developer. I've great interest in Backend Development & Deep Learning.
+baseurl: ''
+url: ''
+twitter_username: an0nh4x0r
+github_username: an0nh4x0r
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed

@@ -1,0 +1,5 @@
+Just a simple command 
+
+lsb_release -a
+
+source: https://unix.stackexchange.com/questions/124667/how-to-know-which-linux-and-which-version-i-am-using

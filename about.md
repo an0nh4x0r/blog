@@ -1,9 +1,10 @@
 ---
-layout: page
 title: About
-permalink: /about/
+layout: page
+permalink: "/about/"
 ---
 
+![](/swapnil_picture.jpg=100x)
 Swapnil Singh is Associate Software Engineer working for 
 [Accenture](https://www.accenture.com){:target="_blank"} in Mumbai.
 

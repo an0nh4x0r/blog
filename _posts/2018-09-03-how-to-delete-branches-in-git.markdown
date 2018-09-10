@@ -1,5 +1,5 @@
 ---
-title: How to delete branches in Git.
+title: How to delete branches in git
 layout: post
 date: '2018-09-03 20:27:00 +0530'
 categories: version-control git

@@ -4,7 +4,6 @@ layout: page
 permalink: "/about/"
 ---
 
-<img src="https://blog.swapnilsingh.in/swapnil_picture.jpg" alt="swapnil picture" width="200"/>
 Swapnil Singh is Associate Software Engineer working for 
 [Accenture](https://www.accenture.com){:target="_blank"} in Mumbai.
 

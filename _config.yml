@@ -9,3 +9,5 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+layout: default
+comments: true

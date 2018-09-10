@@ -1,5 +1,5 @@
 ---
-title: Delete git branch locally and on remote
+title: How to delete branches in Git.
 layout: post
 date: '2018-09-03 20:27:00 +0530'
 categories: version-control git
@@ -24,3 +24,7 @@ After choosing between one of the above commands ... You need to pull changes fr
 ```
 git fetch --all --prune
 ```
+
+# **Source**
+* [Stackoverflow](https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-both-locally-and-remotely){:target="_blank"}
+* [Medium](https://koukia.ca/delete-a-local-and-a-remote-git-branch-61df0b10d323){:target="_blank"}

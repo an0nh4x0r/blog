@@ -15,5 +15,6 @@ Here is the updated code ... Now in the method ```popAndCheck()``` I've implemen
 whether the stack size is greater than 0.
 
 
-{% gist an0nh4x0r/7e86e593a8ff947f783d303597165d9e.js %}
+<script src="https://gist.github.com/an0nh4x0r/7e86e593a8ff947f783d303597165d9e.js"></script>
+
 {% include disqus.html %}

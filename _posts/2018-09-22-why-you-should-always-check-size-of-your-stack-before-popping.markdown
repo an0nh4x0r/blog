@@ -1,5 +1,5 @@
 ---
-title: How to delete branches in git
+title: Why you should always check size of stack before popping
 layout: post
 date: '2018-09-22 01:05:00 +0530'
 categories: competitive-programming

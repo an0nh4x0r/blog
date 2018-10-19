@@ -11,8 +11,8 @@ plugins:
   - jekyll-feed
 layout: default
 comments: true
-gems:
-  - jekyll-paginate
-  - redcarpet
-  - jekyll-gist
-  - pygments.rb
+#plugins:
+#  - jekyll-paginate
+#  - redcarpet
+#  - jekyll-gist
+#  - pygments.rb
